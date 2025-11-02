@@ -1,0 +1,6 @@
+streamlit
+chromadb
+ollama
+jira
+PyPDF2
+python-dotenv
